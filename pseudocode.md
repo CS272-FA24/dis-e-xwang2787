@@ -1,3 +1,5 @@
-1. take two books and order them alphabetically
-2. take another book and compare it to all the previously added books and put it in its correct alphabetical order
-3. repeat step 2 until no books are left.
+1. Take two books from the list of books and order them alphabetically.
+2. Compare another book to the first book in the ordered list.
+3. If the book's greater alphabetically, then put it after the current book it is compared to.
+4. Repeat this until the book is no longer greater than the next book in the ordered list or that it is now at the end of the list.
+5. repeat steps 2-4 until there are no books are left to sort.
